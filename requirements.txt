@@ -1,1 +1,2 @@
+pillow
 qrcode==8.2
